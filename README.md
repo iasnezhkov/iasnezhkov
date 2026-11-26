@@ -15,6 +15,9 @@ independent port, made without vendor support.
   through 6.1 and 6.12.
 - **[android_device_ikko_mindone](https://github.com/iasnezhkov/android_device_ikko_mindone)** —
   the LineageOS 24 device tree, with its own AIDL audio, sensors, GNSS and camera services.
+- **[kumi](https://github.com/iasnezhkov/kumi)** — custom Rust `no_std` firmware, verified A/B
+  bootloader, open protocol, CLI, [WebUSB configurator](https://nonbiri.dev/mindone/case), and
+  no-root Android app + Strip IME for the iKKO Snap keyboard & CS43198 DAC case.
 
 ### Japan
 
@@ -23,7 +26,6 @@ independent port, made without vendor support.
   analyzer: on-device tokenization for iOS and macOS.
 - **[Gokaku 合格](https://nonbiri.dev/gokaku)** — an offline trainer for Japan's written
   driving exam, on the [App Store](https://apps.apple.com/app/id6799978043).
-- **[Suji 筋](https://nonbiri.dev/suji)** — an iPad app for studying Japanese, in development.
 
 ---
 
